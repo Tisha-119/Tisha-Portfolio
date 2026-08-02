@@ -94,10 +94,21 @@ body{
 
 .hero{
 
-    padding-top:120px;
+    padding-top:140px;
 
     background:linear-gradient(135deg,#eef4ff,#ffffff);
 
+}
+
+.hello-badge{
+    display:inline-block;
+    background:#eaf2ff;
+    color:#2563eb;
+    padding:10px 18px;
+    border-radius:30px;
+    font-size:28px;
+    font-weight:600;
+    margin-bottom:20px;
 }
 
 .hero h1{
